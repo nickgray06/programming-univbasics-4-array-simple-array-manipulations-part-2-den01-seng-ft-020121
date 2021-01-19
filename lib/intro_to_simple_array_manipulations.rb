@@ -11,7 +11,7 @@ def using_uniq(array)
 end
 
 def using_flatten(array = [array1, array2])
-  array.flatten(array1, array2)
+  array.flatten
 end
 
 def using_delete(array, string)
